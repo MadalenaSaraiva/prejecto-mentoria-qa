@@ -1,0 +1,22 @@
+{
+  "name": "prejecto-mentoria-qa",
+  "version": "1.0.0",
+  "description": "TESTE",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadalenaSaraiva/prejecto-mentoria-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadalenaSaraiva/prejecto-mentoria-qa/issues"
+  },
+  "homepage": "https://github.com/MadalenaSaraiva/prejecto-mentoria-qa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.0"
+  }
+}
